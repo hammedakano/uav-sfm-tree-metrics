@@ -1,0 +1,12 @@
+data/
+outputs/
+*.las
+*.laz
+*.ply
+*.tif
+*.tiff
+*.gpkg
+*.RData
+*.Rhistory
+.Rproj.user/
+.DS_Store
